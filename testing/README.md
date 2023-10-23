@@ -33,3 +33,14 @@ GPIO0 - FLASH
 Right has USB conenction. VBUS delivers power to RIGHT, before its carried via 4-pins (PJ320A TRSS connector and TRSS Cables) to the other boards. These 4pins also serve as UART communication from LEFT and NUM to RIGHT
 
 At RIGHT, the UART signals are read, and then a packet is made from the signals. 
+
+## Keycaps (Differences from ANSI104)
+
+
+- Additional 1.25U Mute button (Repurposed from Menu Button)
+- Scroll Lock and Pause Break replaced with Vol Up and Vol Down
+- Win and Alt are rotated
+- 3.75U + 4U Space Bar
+- Y, H N, 6 and F6 are duplicated
+
+
